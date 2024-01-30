@@ -3,5 +3,9 @@ I have completed ssc in 2002.
 I have completed hsc in 2005.
 I have completed Bsc in 2012
 I am learning web development.
+<<<<<<< HEAD
 Now i am learning git.
 I will join in a job if i get one.
+=======
+Now i am learning git. again
+>>>>>>> 07f874a9e8533b573f8b74560f083030326b4e9a
