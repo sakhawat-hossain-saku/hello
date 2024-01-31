@@ -9,3 +9,4 @@ I will join in a job if i get one.
 =======
 Now i am learning git. again
 >>>>>>> 07f874a9e8533b573f8b74560f083030326b4e9a
+logo alignment is centered
